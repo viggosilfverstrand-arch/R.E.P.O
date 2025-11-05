@@ -4,6 +4,6 @@ if x ==17 :
     print("perfekt ålder!")
 
 elif x<17:
-    print("new gen")
+    print("holy new gen")
 else:
-    print("holy funcle")
+    print("funcle")
